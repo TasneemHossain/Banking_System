@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="EZ_BANKING_SCHEMA" id="8C8ABFB3-ED4B-DD25-9000-BAE2BF639CC9" version="3.5">
+<createdBy>DELL</createdBy>
+<createdTime>2018-05-29 09:45:24 UTC</createdTime>
+<ownerDesignName>EZ_BANKING_SCHEMA</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>8C8ABFB3-ED4B-DD25-9000-BAE2BF639CC9</designId>
+</OSDM_Design>
